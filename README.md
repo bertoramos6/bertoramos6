@@ -1,6 +1,6 @@
 ### Hey! My name is Alberto, an in-progress software engineer from Spain.
 
-## I love soccer and programming!
+## I love soccer and software!
 - I'm currently studying a Software Engineering Major at the Universidad Complutense de Madrid 📖👨‍💻
 - I have completed a full-stack coding bootcamp [Hack A Boss][HackaBoss] 💻
 - My favorite team is Atlético de Madrid 🔴⚪
