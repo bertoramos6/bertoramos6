@@ -1,4 +1,4 @@
-### Hey! My name is Alberto, an in-progress software engineer from Spain.
+### Hey! My name is Alberto Ramos Suárez, an in-progress software engineer from Spain.
 
 ## I love soccer and software!
 - I'm currently a second year Software Engineering student at the Universidad Complutense de Madrid 📖👨‍💻
@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="linkedinAlberto" width="22px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>][linkedin]
 [<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
