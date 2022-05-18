@@ -8,9 +8,9 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedinAlberto" width="22px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/>][linkedin]
-[<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="linkedinAlberto" width="22px" src="https://img.icons8.com/fluency/344/instagram-new.png"/>][instagram]
+[<img align="left" alt="linkedinAlberto" width="22px" src="https://img.icons8.com/color/344/twitter--v1.png"/>][twitter]
+[<img align="left" alt="linkedinAlberto" width="22px" src="https://img.icons8.com/fluency/344/gmail-new.png"/>][gmail]
 
 
 
@@ -18,4 +18,4 @@
 [linkedin]: https://www.linkedin.com/in/alberto-ramos-su%C3%A1rez-6212161a6/
 [instagram]: https://www.instagram.com/alber_rs6/?hl=es
 [twitter]: https://twitter.com/alber_rs6
-[gmail]: http://mailto:bertoramos2001@gmail.com
+[gmail]: https://mailto:bertoramos2001@gmail.com
