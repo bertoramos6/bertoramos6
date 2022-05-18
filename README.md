@@ -10,6 +10,7 @@
 [<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="linkedinAlberto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
 
 
@@ -17,3 +18,4 @@
 [linkedin]: https://www.linkedin.com/in/alberto-ramos-su%C3%A1rez-6212161a6/
 [instagram]: https://www.instagram.com/alber_rs6/?hl=es
 [twitter]: https://twitter.com/alber_rs6
+[gmail]: https://mailto:bertoramos2001@gmail.com
