@@ -18,4 +18,4 @@
 [linkedin]: https://www.linkedin.com/in/alberto-ramos-su%C3%A1rez-6212161a6/
 [instagram]: https://www.instagram.com/alber_rs6/?hl=es
 [twitter]: https://twitter.com/alber_rs6
-[gmail]: https://mailto:bertoramos2001@gmail.com?subject=This%20is%20a%20subject
+[gmail]: https://mailto:bertoramos2001@gmail.com
