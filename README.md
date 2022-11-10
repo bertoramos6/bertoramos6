@@ -1,7 +1,7 @@
 ### Hey! My name is Alberto Ramos Suárez, an in-progress software engineer from Spain.
 
 ## I love soccer and software!
-- I'm currently a second year Software Engineering student at the Universidad Complutense de Madrid 📖👨‍💻
+- I'm currently a third year Software Engineering student at the Universidad Complutense de Madrid 📖👨‍💻
 - I have completed a full-stack coding bootcamp [Hack A Boss][HackaBoss] 💻
 - My favorite team is Atlético de Madrid 🔴⚪
 
