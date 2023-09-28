@@ -3,7 +3,8 @@
 ## I love soccer and software!
 - I'm currently a third year Software Engineering student at the Universidad Complutense de Madrid 📖👨‍💻
 - I have completed a full-stack coding bootcamp [Hack A Boss][HackaBoss] 💻
-- My favorite team is Atlético de Madrid 🔴⚪ and I had the opportunity to intern with them as a Digital Development intern during my Spring 2023 semester
+- My favorite team is Atlético de Madrid 🔴⚪️ and I had the opportunity to intern with them as a Digital Development intern during my Spring 2023 semester
+- I was an Amazon Intern in the summer of 2023. I worked in the Kindle Library team in Madrid, developing the Front-End for an internal app to analyze the kindle logs
 
 ### Connect with me:
 
